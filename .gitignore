@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Project data files
+/SEACAR Combined Tables/
+/SEACAR_Metadata_20250306.xlsx
