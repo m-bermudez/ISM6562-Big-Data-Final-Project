@@ -5,7 +5,7 @@
 
 This project explores the [UCI Communities and Crime dataset](https://archive.ics.uci.edu/dataset/183/communities+and+crime), which integrates socio-economic indicators with FBI crime data to understand factors influencing violent crime rates in U.S. communities.
 
-We leverage Apache Spark within the Databricks Community Edition environment to:
+We leverage PySpark within our local environments to:
 - Clean and preprocess a high-dimensional dataset
 - Query and analyze patterns using SparkSQL
 - Build and evaluate predictive models using Spark MLlib
